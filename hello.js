@@ -4,5 +4,5 @@ let b = 20;
 if(a === b) {
   console.log('Equal');
 } else {
-  console.log('not equal');
+  console.log('Not Equal');
 }
