@@ -1,8 +1,8 @@
 let a = 10;
 let b = 20;
 
-if(a === b) {
-  console.log('Equal');
+if (a === b) {
+  console.log('a and b are Equal');
 } else {
   console.log('Not Equal');
 }
